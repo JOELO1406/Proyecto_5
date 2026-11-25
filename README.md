@@ -1,4 +1,5 @@
 # 🚦 Movilidad Urbana y Productividad Económica en Ciudades de Latinoamérica
+![Análisis de movilidad urbana](assets/portada-movilidad.png)
 
 ### Análisis de datos con Python | Data Analytics Portfolio
 
